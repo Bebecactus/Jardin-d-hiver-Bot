@@ -2,7 +2,7 @@
   "name": "basicdiscordbot",
   "version": "1.0.0",
   "description": "Thanks For Downloading My Basic Discord Bot For Mac!",
-  "main": "index.js",  Jardin d'hiver
+  "main": "index.js",  Jardin-d-hiver-Bot
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
