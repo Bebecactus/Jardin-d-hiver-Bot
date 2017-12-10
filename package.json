@@ -1,0 +1,17 @@
+{
+  "name": "basicdiscordbot",
+  "version": "1.0.0",
+  "description": "Thanks For Downloading My Basic Discord Bot For Mac!",
+  "main": "index.js",  Jardin d'hiver
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bebe cactus",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.2.1",
+    "discord.js-commando": "^0.9.0"
+    "request": "2.81.0"  OPTIONAL
+   }
+ }
